@@ -1,0 +1,3 @@
+We use two clustering algorithm Kmeans and Dbscan.Customer segmentation simply means grouping your customers according to various characteristics 
+(for example grouping customers by age).It’s a way for organizations to understand their customers. Knowing the differences between customer groups, it’s easier to 
+make strategic decisions regarding product growth and marketing.The opportunities to segment are endless and depend mainly on how much customer data you have at your use. Starting from the basic criteria, like gender, hobby, or age, it goes all the way to things like “time spent of website X” or “time since user opened our app”. 
